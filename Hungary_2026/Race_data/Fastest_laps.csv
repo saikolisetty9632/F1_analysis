@@ -1,0 +1,23 @@
+n,Driver,Chassis,Engine,Time,Gap,Lap,Average
+1,Charles LECLERC,Ferrari,Ferrari,1'22.000,,58,192.337
+2,Lewis HAMILTON,Ferrari,Ferrari,1'22.300,0.300,59,191.635
+3,Kimi ANTONELLI,Mercedes,Mercedes,1'22.415,0.415,58,191.368
+4,Lando NORRIS,McLaren,Mercedes,1'22.491,0.491,64,191.192
+5,George RUSSELL,Mercedes,Mercedes,1'22.589,0.589,58,190.965
+6,Pierre GASLY,Alpine,Mercedes,1'22.871,0.871,57,190.315
+7,Isack HADJAR,Red Bull,Red Bull Ford,1'23.218,1.218,45,189.521
+8,Max VERSTAPPEN,Red Bull,Red Bull Ford,1'23.433,1.433,66,189.033
+9,Fernando ALONSO,Aston Martin,Honda,1'23.679,1.679,57,188.477
+10,Oscar PIASTRI,McLaren,Mercedes,1'23.896,1.896,35,187.990
+11,Liam LAWSON,Racing Bulls,Red Bull Ford,1'23.900,1.900,64,187.981
+12,Nico HULKENBERG,Audi,Audi,1'23.964,1.964,67,187.838
+13,Franco COLAPINTO,Alpine,Mercedes,1'24.624,2.624,40,186.373
+14,Lance STROLL,Aston Martin,Honda,1'24.718,2.718,57,186.166
+15,Gabriel BORTOLETO,Audi,Audi,1'24.783,2.783,33,186.023
+16,Carlos SAINZ,Williams,Mercedes,1'24.864,2.864,56,185.846
+17,Alexander ALBON,Williams,Mercedes,1'25.403,3.403,57,184.673
+18,Oliver BEARMAN,Haas,Ferrari,1'25.884,3.884,24,183.638
+19,Esteban OCON,Haas,Ferrari,1'25.889,3.889,62,183.628
+20,Arvid LINDBLAD,Racing Bulls,Red Bull Ford,1'25.931,3.931,47,183.538
+21,Sergio PEREZ,Cadillac,Ferrari,1'26.342,4.342,23,182.664
+22,Valtteri BOTTAS,Cadillac,Ferrari,1'27.959,5.959,4,179.306

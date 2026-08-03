@@ -1,0 +1,23 @@
+Pos,No,Driver,Chassis,Engine,Lap,Time,Gap,Average km/h,Pts
+1,1,Lando NORRIS,McLaren,Mercedes,70,1h 39m 56.180s,,184.095,25
+2,3,Max VERSTAPPEN,Red Bull,Red Bull Ford,70,1h 40m 11.260s,+15.080s,,18
+3,12,Kimi ANTONELLI,Mercedes,Mercedes,70,1h 40m 14.908s,+18.728s,,15
+4,16,Charles LECLERC,Ferrari,Ferrari,70,1h 40m 20.020s,+23.840s,,12
+5,44,Lewis HAMILTON,Ferrari,Ferrari,70,1h 40m 20.720s,+24.540s,,10
+6,6,Isack HADJAR,Red Bull,Red Bull Ford,70,1h 40m 51.668s,+55.488s,,8
+7,63,George RUSSELL,Mercedes,Mercedes,70,1h 40m 53.683s,+57.503s,,6
+8,30,Liam LAWSON,Racing Bulls,Red Bull Ford,69,,,,4
+9,27,Nico HULKENBERG,Audi,Audi,69,,,,2
+10,41,Arvid LINDBLAD,Racing Bulls,Red Bull Ford,69,,,,1
+11,5,Gabriel BORTOLETO,Audi,Audi,69,,,,0
+12,10,Pierre GASLY,Alpine,Mercedes,69,,,,0
+13,18,Lance STROLL,Aston Martin,Honda,69,,,,0
+14,14,Fernando ALONSO,Aston Martin,Honda,69,,,,0
+15,43,Franco COLAPINTO,Alpine,Mercedes,68,,,,0
+16,31,Esteban OCON,Haas,Ferrari,68,,,,0
+17,23,Alexander ALBON,Williams,Mercedes,68,,,,0
+18,55,Carlos SAINZ,Williams,Mercedes,68,,,,0
+19,87,Oliver BEARMAN,Haas,Ferrari,68,,,,0
+20,81,Oscar PIASTRI,McLaren,Mercedes,55,,Gearbox,,0
+21,11,Sergio PEREZ,Cadillac,Ferrari,48,,Suspension,,0
+22,77,Valtteri BOTTAS,Cadillac,Ferrari,13,,Brakes,,0
